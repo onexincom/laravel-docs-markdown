@@ -1,6 +1,6 @@
 # laravel-docs-markdown
 
-Use markdown to organize the latest Laravel manual version. This is unofficially organized. You may need to check the official documentation.
+The latest version of the Laravel manual written using markdown. This is unofficially organized. You may need to check the official documentation.
 https://github.com/laravel/docs
 
 ## About us
